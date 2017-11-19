@@ -13,7 +13,7 @@ OTF files for [Plex](https://ibm.github.io/type/)
 Here is a simple screenshot showing Emacs 25 on (an earlier version of) this
 README.md, along with the font selector.
 
-![](screenshot/emacs-with-plex.png){ width=99% }
+![](screenshot/emacs-with-plex.png)
 
 
 ### Installation
